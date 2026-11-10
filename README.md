@@ -2,7 +2,7 @@
 
 # Sooraj Ramachandran
 
-### Enterprise Quality Engineering · Test Automation Architecture · GenAI Evaluation · AI Agents
+### Enterprise Quality Engineering · Agentic Automation Frameworks · GenAI Evaluation · AI Agents
 
 Building reliable software through scalable automation frameworks, intelligent testing, and practical AI engineering.
 
@@ -27,19 +27,28 @@ I turn repeatable engineering problems into reusable packages, measurable practi
 
 ## Focus Areas
 
+- **Agentic automation frameworks:** STAF.UI.API and STAF.Playwright with built-in agent skills, Selenium/Playwright MCP servers, Azure DevOps MCP, and an extensible surface for additional MCP agents
 - **Enterprise test automation:** C#, .NET, Selenium, Playwright, API and database testing
 - **Automation architecture:** reusable frameworks, engineering standards, CI/CD, Azure DevOps
 - **AI quality engineering:** LLM evaluation, evaluation datasets, LLM-as-a-Judge, AI-assisted testing
-- **Agentic engineering:** MCP, tool-using agents, application-aware automation workflows
 
 ## Featured Open Source
 
 | Project | What it is | Links |
 |---|---|---|
-| **STAF.UI.API** | Production .NET Selenium/API framework with reporting, parallel execution, Excel/DB helpers, accessibility, and MCP support · **15k+ NuGet downloads** | [NuGet](https://www.nuget.org/packages/STAF.UI.API) · [Source](https://github.com/sooraj171/STAF) · [Samples](https://github.com/sooraj171/STAF.Selenium.Tests) |
-| **STAF.Playwright** | Enterprise Playwright .NET platform with multi-runner support, HTML reporting, and AI/MCP workflows | [NuGet](https://www.nuget.org/packages/STAF.Playwright) · [Tests](https://github.com/sooraj171/STAF.Playwright.Tests) |
+| **STAF.UI.API** | **Agentic automation framework** for Selenium UI/API testing—enterprise reporting and parallel execution, plus built-in agent skills, Selenium MCP, and Azure DevOps MCP. Agent-ready for additional MCP servers. · **15k+ NuGet downloads** | [NuGet](https://www.nuget.org/packages/STAF.UI.API) · [Source](https://github.com/sooraj171/STAF) · [Samples](https://github.com/sooraj171/STAF.Selenium.Tests) |
+| **STAF.Playwright** | **Agentic automation framework** for Playwright .NET—multi-runner automation with built-in agent skills, Playwright MCP, and Azure DevOps MCP for CI-connected agent workflows | [NuGet](https://www.nuget.org/packages/STAF.Playwright) · [Tests](https://github.com/sooraj171/STAF.Playwright.Tests) |
 | **STAF.LLMEval** | .NET library for scoring GenAI responses in unit tests and CI/CD | [NuGet](https://www.nuget.org/packages/STAF.LLMEval) · [Source](https://github.com/sooraj171/LLMEval) · [Sample](https://github.com/sooraj171/LLMEval.Sample) |
 | **AI_TestManager** | AI-assisted generation of use cases and test cases for documentation workflows | [Repository](https://github.com/sooraj171/AI_TestManager) |
+
+### What “agentic” means here
+
+STAF.UI.API and STAF.Playwright are built so coding agents can work *with* the framework—not only around it. Each stack includes:
+
+- Built-in **agent skills** for common test-engineering tasks
+- Native **MCP servers** for Selenium or Playwright automation
+- **Azure DevOps MCP** integration for CI/work-item-connected workflows
+- An **extensible agent surface** ready for additional MCP agents as team needs grow
 
 ## Professional Experience
 
@@ -56,7 +65,7 @@ I turn repeatable engineering problems into reusable packages, measurable practi
 
 ## Technology
 
-`C#` `.NET` `Playwright` `Selenium` `REST APIs` `SQL` `Azure DevOps` `CI/CD` `JMeter` `LLM Evaluation` `MCP` `RAG`
+`C#` `.NET` `Playwright` `Selenium` `REST APIs` `SQL` `Azure DevOps` `CI/CD` `JMeter` `LLM Evaluation` `MCP` `AI Agents` `RAG`
 
 ## Connect
 
