@@ -50,7 +50,7 @@ I turn repeatable engineering problems into reusable packages, measurable practi
 ## Research & Professional Contributions
 
 - Research interests: AI agents for software testing, GenAI evaluation, intelligent UI/API automation
-- **40+** peer-review and judging contributions
+- **50+ and counting** peer-review and judging contributions
 - Selected publications: *Evaluating AI Responses*, *AI for Selenium XPath Repair & Maintenance*, *AI-driven multi-agents for next-generation software testing*, *Enterprise Test Automation Framework*
 - [Google Scholar](https://scholar.google.com/citations?user=qRfAno8AAAAJ&hl=en) · [ORCID](https://orcid.org/0009-0007-3724-6521)
 
